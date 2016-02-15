@@ -7,4 +7,5 @@ console.log(myCalculator);
 
 var myCalculator = new Calculator();
 
-Calculator(9, 7);
+myCalculator.subtract(9, 7);
+// myCalculator.sum(8,7); to do addition
